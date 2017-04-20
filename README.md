@@ -1,4 +1,4 @@
-# mcuinstrument
+# MCU Instrument
 
 Project Specifications
 Using the Keil development environment, develop a program that will simultaneously perform the following tasks:
