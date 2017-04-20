@@ -1,6 +1,6 @@
 # MCU Instrument
 
-Project Specifications
+Project Specifications:
 Using the Keil development environment, develop a program that will simultaneously perform the following tasks:
 
 Task1
@@ -18,6 +18,7 @@ Note 62 Off 11644
 
 Task4
 Blink the green and blue LEDs.  The blink rates are independent and should range from 1 to 10 blinks per second.  Control the blink rates using the TeraTerm keyboard.  Press key B to increment the blue blink rate and key G to increment the green blink rate.  Incrementing a blink rate of 10 should produce a blink rate of 1.  The control keys are pressed between notes played on the piano, and the keystroke should be echoed.  For example, if the blue blink rate is increased by 2 after the first note and the green rate increased by 3 after the second note, the display would look as follows:
+
 Note 65 On 10666
 Note 65 Off 11053
 bb
