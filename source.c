@@ -165,4 +165,3 @@ void initLed()
   RCC->AHBENR |= (1 << 19);
   GPIOC->MODER |= (1 << (8 * 2)) | (1 << (9 * 2));
 }
-.
