@@ -63,7 +63,7 @@ int main()
     
     if(size)
       if(putChar(buf[0]))
-    	  {
+    	{
       	  for(i = 0; i < size - 1; i++)
       	    buf[i] = buf[i + 1];
       
