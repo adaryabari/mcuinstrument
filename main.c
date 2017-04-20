@@ -31,7 +31,7 @@ int main()
   initAll();
 
   while(1) 
-	{
+  {
     scancode = bPress();
     if(scancode == 8) 
 			noteNum = 1;
